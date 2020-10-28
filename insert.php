@@ -1,3 +1,3 @@
 <?php 
-	header("Location: store.php")
+	header("Location: index.php")
  ?>
